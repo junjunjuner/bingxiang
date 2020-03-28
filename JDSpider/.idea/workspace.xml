@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b7db0c7-ea57-4a84-969e-eb961205e4ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TuC1o2oGLOdhFPK0Td54Ohywdh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../其他" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JDSpider/spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="gq_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JDSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JDSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JDSpider/spiders/mdgq_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JDSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JDSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JDSpider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JDSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JDSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JDSpider/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.gq_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b7db0c7-ea57-4a84-969e-eb961205e4ce" name="Default Changelist" comment="" />
+      <created>1574300380495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574300380495</updated>
+      <workItem from="1574300383062" duration="3664000" />
+      <workItem from="1574306562764" duration="2794000" />
+      <workItem from="1574643795904" duration="303000" />
+      <workItem from="1574733029161" duration="17686000" />
+      <workItem from="1575102994670" duration="12798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="295" width="426" height="493" key="FileChooserDialogImpl" timestamp="1585275085263">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="743" y="295" width="426" height="493" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1585275085263" />
+    <state width="1893" height="363" key="GridCell.Tab.0.bottom" timestamp="1584319461245">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1893" height="363" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1584319461245" />
+    <state width="1893" height="363" key="GridCell.Tab.0.center" timestamp="1584319461242">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1893" height="363" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1584319461242" />
+    <state width="1893" height="363" key="GridCell.Tab.0.left" timestamp="1584319461241">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1893" height="363" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1584319461241" />
+    <state width="1893" height="363" key="GridCell.Tab.0.right" timestamp="1584319461243">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1893" height="363" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1584319461243" />
+    <state x="456" y="172" key="SettingsEditor" timestamp="1582961933079">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="456" y="172" key="SettingsEditor/0.28.1920.1018@0.28.1920.1018" timestamp="1582961933079" />
+  </component>
+</project>
